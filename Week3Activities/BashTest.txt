@@ -1,1 +1,12 @@
 Alright alright alright lets see if this is better 
+
+Yeah so basically 
+
+git Allows you to 
+create directories 
+delete files 
+create files 
+edit files 
+and then add everything back to eitehr a branch or the main thing. Perfect versionm control.
+
+
