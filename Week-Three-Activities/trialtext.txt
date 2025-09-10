@@ -1,0 +1,2 @@
+Dusting off old Git and Bash Skills 
+All ofthis was done on the terminal
